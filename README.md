@@ -43,7 +43,6 @@
 [<img align="left" alt="LukerWilkinson | BTLO" width="22px" src="https://blueteamlabs.online/images/logo.png" />][btlo]
 [<img align="left" alt="LukerWilkinson | BTLO" width="22px" src="https://assets.tryhackme.com/img/logo/tryhackme_logo_full.svg" />][tryhackme]
 
-[twitter]: https://twitter.com/lukerwilkinson
 [linkedin]: https://linkedin.com/in/lukerwilkinson
 [btlo]: https://https://blueteamlabs.online/public/user/377086154f390c02e9bb91
 [tryhackme]: https://tryhackme.com/p/TEPG
