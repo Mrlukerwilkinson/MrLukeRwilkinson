@@ -38,7 +38,7 @@
 
 <h2> 🤳 Connect with me:</h2>
 
-[<img align="left" alt="LukerWilkinson | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+
 [<img align="left" alt="LukerWilkinson | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="LukerWilkinson | BTLO" width="22px" src="https://blueteamlabs.online/images/logo.png" />][btlo]
 [<img align="left" alt="LukerWilkinson | BTLO" width="22px" src="https://assets.tryhackme.com/img/logo/tryhackme_logo_full.svg" />][tryhackme]
